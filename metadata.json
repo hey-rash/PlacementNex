@@ -1,0 +1,5 @@
+{
+  "name": "PlacementNex",
+  "description": "An advanced Placement Data Analyzer dashboard featuring AI-driven insights, DSA-optimized data processing (Heaps, Tries, Sorting), and comprehensive student-company analytics.",
+  "requestFramePermissions": []
+}
